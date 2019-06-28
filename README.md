@@ -9,7 +9,7 @@ We developed a 3-way file transfer system that allows users to use an Android de
 
 ## About
 
-This repository contains the PC server end of the of the 3-way file transfer that makes up DroidTooth File Transfer, which acted as my senior seminar project at [Adelphi University](https://www.adelphi.edu/). Developed with [Java](https://www.java.com/en/) using [Eclipse](https://www.eclipse.org/).
+This repository contains the PC server end of the of the 3-way file transfer that makes up DroidTooth File Transfer, which acted as our senior seminar project at [Adelphi University](https://www.adelphi.edu/). Developed with [Java](https://www.java.com/en/) using [Eclipse](https://www.eclipse.org/).
 
 There are three components which make up the entirety of DroidTooth File Transfer.
 
