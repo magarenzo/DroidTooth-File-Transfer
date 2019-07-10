@@ -34,3 +34,7 @@ Due to time restrictions, the cloud portion of the 3-way file transfer had to be
 * Michael A. Agarenzo
 
 * Jai Punjwani
+
+---
+
+This was originally created as the final project in Senior Seminar as part of the culmination of the Computer Science program at Adelphi University.
