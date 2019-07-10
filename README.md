@@ -9,15 +9,15 @@ We developed a 3-way file transfer system that allows users to use an Android de
 
 ## Documents
 
-* [Data Sheet](blob/master/Docs/data-sheet.pdf)
+* [Data Sheet](Docs/data-sheet.pdf)
 
-* [Decision Log](blob/master/Docs/decision-log.pdf)
+* [Decision Log](Docs/decision-log.pdf)
 
-* [Requirements](blob/master/Docs/requirements.pdf)
+* [Requirements](Docs/requirements.pdf)
 
-* [Resources](blob/master/Docs/resources.pdf)
+* [Resources](Docs/resources.pdf)
 
-* [Technical Documentation](blob/master/Docs/technical-documentation.pdf)
+* [Technical Documentation](Docs/technical-documentation.pdf)
 
 ## About
 
