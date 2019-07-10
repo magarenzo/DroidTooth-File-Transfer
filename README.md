@@ -7,6 +7,18 @@ Listens for Bluetooth connection from nearby Android Server and responds to rece
 
 We developed a 3-way file transfer system that allows users to use an Android device or any web browser to connect to an Android device at home and then use it to access files from a nearby computer via Bluetooth. Once the Android device at home receives the requested file, it uses cloud storage to send the requested file back to the user.
 
+## Documents
+
+* [Data Sheet](blob/master/Docs/data-sheet.pdf)
+
+* [Decision Log](blob/master/Docs/decision-log.pdf)
+
+* [Requirements](blob/master/Docs/requirements.pdf)
+
+* [Resources](blob/master/Docs/resources.pdf)
+
+* [Technical Documentation](blob/master/Docs/technical-documentation.pdf)
+
 ## About
 
 This repository contains the PC server end of the of the 3-way file transfer that makes up DroidTooth File Transfer, which acted as our senior seminar project at [Adelphi University](https://www.adelphi.edu/). Developed with [Java](https://www.java.com/en/) using [Eclipse](https://www.eclipse.org/).
