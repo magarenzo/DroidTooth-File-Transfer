@@ -8,7 +8,7 @@ Listens for Bluetooth connection from nearby Android Server and responds to rece
 
 We developed a 3-way file transfer system that allows users to use an Android device or any web browser to connect to an Android device at home and then use it to access files from a nearby computer via Bluetooth. Once the Android device at home receives the requested file, it uses cloud storage to send the requested file back to the user
 
-## Documents
+## Documentation
 
 * [Data Sheet](Docs/data-sheet.pdf)
 
