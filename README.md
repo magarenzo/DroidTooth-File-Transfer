@@ -1,4 +1,5 @@
-# droidtooth-file-transfer
+# DroidTooth File Transfer
+
 Listens for Bluetooth connection from nearby Android Server and responds to received protocols
 
 ## Abstract
@@ -25,15 +26,15 @@ This repository contains the PC server end of the of the 3-way file transfer tha
 
 There are three components which make up the entirety of DroidTooth File Transfer.
 
-#### pc-bluetooth-server
+### PC Bluetooth Server
 
 PC server that runs in the background on the computer at home, listening for a Bluetooth connection from a nearby Android server
 
-#### android-bluetooth-server
+### Android Bluetooth Server
 
 Android server that runs in the background on an Android device at home, receives protocols from the Cloud server, and sends those protocols to the PC server running on a nearby computer
 
-#### cloud-server
+### Cloud Server
 
 App accessible from anywhere that is used to send protocols to the Android server running on an Android device at home
 
