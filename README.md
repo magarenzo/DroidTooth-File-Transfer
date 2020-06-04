@@ -10,15 +10,15 @@ We developed a 3-way file transfer system that allows users to use an Android de
 
 ## Documentation
 
-* [Data Sheet](Docs/data-sheet.pdf)
+* [Data Sheet](media/data-sheet.pdf)
 
-* [Decision Log](Docs/decision-log.pdf)
+* [Decision Log](media/decision-log.pdf)
 
-* [Requirements](Docs/requirements.pdf)
+* [Requirements](media/requirements.pdf)
 
-* [Resources](Docs/resources.pdf)
+* [Resources](media/resources.pdf)
 
-* [Technical Documentation](Docs/technical-documentation.pdf)
+* [Technical Documentation](media/technical-documentation.pdf)
 
 ## About
 
@@ -48,6 +48,4 @@ Due to time restrictions, the cloud portion of the 3-way file transfer had to be
 
 * Jai Punjwani
 
----
-
-This was originally created as the final project in CSC 480 (Senior Seminar in Information Systems) as part of the culmination of the Computer Science program at Adelphi University
+* This was originally created as the final project in CSC 480 (Senior Seminar in Information Systems) as part of the culmination of the Computer Science program at Adelphi University
