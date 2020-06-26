@@ -48,4 +48,4 @@ Due to time restrictions, the cloud portion of the 3-way file transfer had to be
 
 * Jai Punjwani
 
-* This was originally created as the final project in CSC 480 (Senior Seminar in Information Systems) as part of the culmination of the Computer Science program at Adelphi University
+This was originally created as the final project in CSC 480 (Senior Seminar in Information Systems) as part of the culmination of the Computer Science program at Adelphi University
