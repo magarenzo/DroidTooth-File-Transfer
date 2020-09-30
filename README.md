@@ -1,6 +1,6 @@
 # DroidTooth File Transfer
 
-Listens for Bluetooth connection from nearby Android Server and responds to received protocols
+Listen for Bluetooth connection from nearby Android Server and respond to received protocols
 
 ## Abstract
 
