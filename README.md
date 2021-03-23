@@ -44,6 +44,6 @@ Android server that runs in the background on an Android device at home, receive
 
 * [Michael A. Agarenzo](https://magarenzo.com)
 
-* [Jai Punjwani](wwww.github.com/jaipunjwani)
+* [Jai Punjwani](https://github.com/jaipunjwani)
 
 This was originally created as the final project in CSC 480 (Senior Seminar in Information Systems) as part of the culmination of the Computer Science program at Adelphi University
