@@ -42,7 +42,7 @@ Android server that runs in the background on an Android device at home, receive
 
 ## Owners
 
-* [Michael A. Agarenzo](https://magarenzo.com)
+* [Michael A.](https://linkedin.com/in/magarenzo)
 
 * [Jai Punjwani](https://github.com/jaipunjwani)
 
